@@ -1,0 +1,115 @@
+.wrapper{
+    width: 100%;
+    border: 5px auto;
+}
+
+.header{
+    width: 100%;
+    height: 240px;
+    background-color: orange;
+    float: left;
+}
+
+.headerpic{
+    width: 25%;
+    border: 5px;
+    border-color: black;
+    padding: 2px;
+    float: left;
+}
+
+.heading{
+    margin-top: 5px;
+    width: 50%;
+    color: black;
+    float: left;
+    vertical-align: middle;
+    height: 500px;
+    font-size: 250%;
+}
+
+.login{
+    width: 23%;
+    float: right;
+    border-style: solid;
+    padding: 10px 10pz;
+    margin-top: 20px;
+    text-decoration-style: solid;
+    font-size-adjust: auto;
+}
+#content{
+    width: 83.3%;
+    height: 600px;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    float: left;
+    overflow: scroll;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+#left{
+    width: 16.7%;
+    height: 600px;
+    background-color: black;
+    float:left;
+    vertical-align: middle;
+}
+#left1{
+    width:100%;
+    height:200px;    
+    float:left;
+    text-align: center;
+    
+}
+#left2{
+    width:100%;
+    height:200px;
+    float:Left;
+    text-align: center;
+}
+#left3{
+    width:100%;
+    height:200px;
+    float: left;
+    text-align: center;
+}
+#footer{
+    width:100%;
+    height: 100px;
+    background-color: gold;
+    float:left;  
+    align-content:right;
+    }
+#content2{
+    margin-top: 30px;
+    align-content: center;
+}
+#content2.content{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.sub{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-bottom-style: outset;
+}
+a:hover{
+    color:red;
+}
+.search{
+    font-size: 1.05em;
+}
+
+#display{
+    margin-top: 50px;
+    justify-content: center;
+    
+}
+#searchbar{
+    margin-top: 50px;
+}
